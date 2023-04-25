@@ -1,0 +1,222 @@
+,dialogueID,text
+86915,10000.tsv,anybody... :/,Uninterpretable
+86916,10000.tsv,plz somone,Uninterpretable
+86917,10000.tsv,help,Hold before answer/agreement	
+86918,10000.tsv,expert,Hold before answer/agreement	
+86919,10000.tsv,:\,Uninterpretable
+86920,10000.tsv,im a linux noob,Statement-opinion
+86921,10000.tsv,this is first time installing ubuntu,Statement-non-opinion
+86922,10000.tsv,and i installed slackware before and it worked fine,Statement-non-opinion
+86923,10000.tsv,but now im trying to boot ubuntu and it wont let me do crap,Other
+86924,10000.tsv,right before i get the blaack screen with the command prompt top left that does not let me type anything i can type a little briefly,Statement-non-opinion
+86925,10000.tsv,"i'm new myself, but i solved lots of problems by quiting the instalation in the user information setting stage",Statement-non-opinion
+86926,10000.tsv,it goes after that into a reboot and a second stage,Statement-non-opinion
+86927,10000.tsv,err tip,Uninterpretable
+86928,10000.tsv,what was it again,Wh-Question
+86929,10000.tsv,"i'm new myself, but i solved lots of problems by quiting the instalation in the user information setting stage",Statement-non-opinion
+86930,10000.tsv,"i dont remember how, but i quit the instalation at the point when it asks you to set password etc, and then it went into a reboot and a second stage that went fine",Statement-non-opinion
+86931,10000.tsv,"give it a whirl, can anybody help my poor ass in the meantime???",Open-Question
+86932,10000.tsv,u didnt fill me in specific,Statement-opinion
+86933,10000.tsv,"as much as i can. you go through the process, and for me it worked to quit in the user info part, when you set the time zone, user name password etc. but it was my last stage that didnt get stuck. so try exiting instalation there or on the last one working for you",Statement-non-opinion
+86934,10000.tsv,are you like 12?,Open-Question
+657033,10000.tsv,Does anyone have a little time to help me get my old info into my new version of Ubuntu?,Open-Question
+657034,10000.tsv,well I installed 10.04 into a new partition and left my old 9.04 alone so I didn't have to worry about losing information. Now I need to link it or move it to 10.04,Statement-non-opinion
+657035,10000.tsv,I'm not sure what the best cure really is,Statement-opinion
+657036,10000.tsv,can you mount it as your hoe?,Open-Question
+657037,10000.tsv,can you mount it as your home?,Open-Question
+657038,10000.tsv,you can copy it to your new partition then with Gparted,Statement-non-opinion
+657039,10000.tsv,what a re u refferring by info?,Wh-Question
+657040,10000.tsv,"do you mean settings, data, exactly what?",Rhetorical-Questions
+657041,10000.tsv,"sorry, had to logut to get into another shell",Statement-non-opinion
+657042,10000.tsv,try to rad thi: https://help.ubuntu.com/community/AutomaticallyMountPartitions,Statement-non-opinion
+657043,10000.tsv,try to read this: https://help.ubuntu.com/community/AutomaticallyMountPartitions,Statement-non-opinion
+657044,10000.tsv,NP :,Uninterpretable
+657045,10000.tsv,"yes, I always use fstab! it works all the time,",Yes answers
+657046,10000.tsv,"Quagmire to big to be a swap, he probably wanted to copy your data to that 10 GB aprtition",Statement-opinion
+657047,10000.tsv,"you can just mount the old partition with your old data, don't need to copy it to another partition",Statement-non-opinion
+657048,10000.tsv,"wait a sec, someone just called me on the phone",Other
+657049,10000.tsv,"you don't need to copy data over to another partition, once you mount the old partition you can just access it irght of the bat!",Statement-opinion
+1151697,10000.tsv,How do I get out of this annoying unity? I can't take this anymore,Action-directive
+1151698,10000.tsv,sudo apt-get install gnome-shell.  Unfortuately gnome-shell is pretty similar to unity but probably worse,Statement-opinion
+1151699,10000.tsv,I'd go with chromium,Statement-opinion
+2114534,10000.tsv,how do you change the default colors in xterm ?,Wh-Question
+2114535,10000.tsv,.bashrc tweakage allows for some sweet terminals tho,Statement-opinion
+2114536,10000.tsv,use 'xterm -fg blue -bg black',Other
+2114537,10000.tsv,"or, learn how to configure your .bashrc file with google",Or-Clause
+2114538,10000.tsv,"that's what I needed, now I remember that you can change terminal colors through /etc/profile",Statement-opinion
+2114539,10000.tsv,yup,Yes answers
+2114540,10000.tsv,"had a very long time that didn't deal with those stuff... .bashrc, that's the answer, thanks :D",Statement-opinion
+2114541,10000.tsv,"yeah, it reminds me in my old gentoo days back in 2004",Statement-non-opinion
+2114542,10000.tsv,"heh, im on gentoo now",Hedge
+2114543,10000.tsv,:P,Uninterpretable
+2114544,10000.tsv,"gentoo guys make pretty good terminal configuration, I really love gentoo's colors",Statement-non-opinion
+2114545,10000.tsv,hehe,Uninterpretable
+2114546,10000.tsv,"well, gotta keep working, thanks for your help",Thanking
+2114547,10000.tsv,yup,Yes answers
+2854810,10000.tsv,how do you get ubuntu to install on a hp laptop,Wh-Question
+2854811,10000.tsv,"obviously, they have problems",Statement-opinion
+2854812,10000.tsv,try the AlternateCD you can do a full install in text mode then when it is done you can sudo apt-get ubuntu-desktop if you want the GUI,Statement-opinion
+2854813,10000.tsv,i dont think i can handle a alternat install,No answers
+2854814,10000.tsv,it is straight forward and easy to follow,Statement-opinion
+2854815,10000.tsv,"first step to installing linux is getting over the fearof text installs. it really is not that difficult, the fact that you want to install linux is already a big step so have some faith and give it a shot :)",Statement-opinion
+2854816,10000.tsv,um isnt it like 20 commands?,Yes-No-Question
+2854817,10000.tsv,www.ubuntu.com has the alternate cd you have to check the box before downloading,Statement-opinion
+2854818,10000.tsv,i have the iso already,Statement-opinion
+2854819,10000.tsv,the commands are not advanced there are menus and you use the arrow keys to scroll through and ENTER to select . very simple you read carefully and follow the instruction. when in doubt go with the default :),Statement-opinion
+2854820,10000.tsv,so its menubased?,Abandoned or Turn-Exit
+2854821,10000.tsv,menu based in the sense that there will be a list of options when the cd boots,Statement-opinion
+2854822,10000.tsv,trust me dude you can do this.,Statement-opinion
+2854823,10000.tsv,i just hope i dont brick a $2500 laptop,Statement-opinion
+2854824,10000.tsv,I cant promise I cant promise it will go off without any hitches but nothing will break,Statement-opinion
+2854825,10000.tsv,it wont erase vista if you read carefully. dont just hit enter read everything first. the instructions are clear and simple,Statement-opinion
+2854826,10000.tsv,im not that much of a nux noob,Statement-opinion
+2854827,10000.tsv,then take the plunge. you have already made sure that the pool is filled. nothing holding you back now,Statement-opinion
+2854828,10000.tsv,other than the fact that im in a open lab at college right now and my cdr s are at home,Statement-non-opinion
+3275973,10000.tsv,"I've tried to install Ubuntu directly from hard drive. I've managed to enter livecd installation. It was normal until the installation started. It said cannot unmount /cdrom so I unmounted it manually. Then ubiquity crashed. I had formatted the partition where previous Ubuntu was installed so now my question is, is GRUB uninstalled when I formatted that partition? If so, how can I install it back. Because I'm scared to reboot now",Statement-opinion
+3275974,10000.tsv,bootloaderless pc,Statement-non-opinion
+3275975,10000.tsv,can anybody answer please?,Yes-No-Question
+3275976,10000.tsv,"I've tried, but it crashes, so now I plan to try another version or another distro, but I fear I won't be able to boot",Statement-non-opinion
+3275977,10000.tsv,"(don't reply to me) but i think boot-repair or something might help.  or the old school way chroot from a live cd, THEN install grub (FYI the chroot requires MULTIPLE mounting for grub to install correctly - so it's not an easy suggestion, but i'm unfamiliar with boot repair or whaterver it's called).",Statement-non-opinion
+4390356,10000.tsv,"Hey all... why does my SD card suddenly not identify teh filesystem when I use 'mount'??  Also,  when I run Skype, my digital spdif output signal dies.  Why so?",Wh-Question
+4390357,10000.tsv,what filesystem is on the SD card?,Wh-Question
+4390358,10000.tsv," standard FAT32.  It's worked up till yesterday (er, today... I apt-get dist-upgraded)",Statement-non-opinion
+4390359,10000.tsv," I didn't see any system notification through KDE when I would plug my SD card into the reader, so I checked it out in a command-line shell and saw that using 'mount /dev/sdd /mnt' gave me an error that it doesn't udnerstand the filesystem.",Statement-non-opinion
+4390360,10000.tsv, normally it identifies it on its own,Statement-non-opinion
+4390361,10000.tsv, 'dmesg' definitely detects /dev/sdd though.,Statement-non-opinion
+4390362,10000.tsv,"have you tried mounting /dev/sdd1?  In linux, the devices are alphabetic characters and partitions are numbers",Yes-No-Question
+4390363,10000.tsv, well yes,Yes answers
+4390364,10000.tsv,er,Uninterpretable
+4390365,10000.tsv," let me check, actually.",Statement-opinion
+4390366,10000.tsv," oh that works perfectly (Trhough the ocmmand line, at leat).  Silly me, forgetting the number.",Statement-opinion
+4390367,10000.tsv," thanks!  Now, why doesn't KDE pick up on this....",Thanking
+5405165,10000.tsv,hey,Conventional-opening
+5405166,10000.tsv,just did a brand new install for someone of 8.04,Statement-non-opinion
+5405167,10000.tsv,"when I try to login, it just kicks me back to GDM",Statement-opinion
+5405168,10000.tsv,the disk is not full,Statement-non-opinion
+5405169,10000.tsv,and I tried getting rid of the gnome files - no dice,Statement-non-opinion
+5405170,10000.tsv,I tried removing xorg - and letting it create a new one - still no good,Statement-non-opinion
+5405171,10000.tsv,any ideas?,Open-Question
+5405172,10000.tsv,I can only login via failsafe,Statement-non-opinion
+5405173,10000.tsv,thats a pretty solid hardware error normally,Statement-non-opinion
+5405174,10000.tsv,check your gdm log,Statement-non-opinion
+5405175,10000.tsv,- what file should I cat to see the gdm log?,Wh-Question
+5405176,10000.tsv,look in /var/log/gdm,Statement-non-opinion
+5405177,10000.tsv,also check the syslog,Statement-non-opinion
+5405178,10000.tsv,I suspect your video card drivers are the issue,Statement-non-opinion
+5405179,10000.tsv, we'll see now if enablings fglrx helps at all,Statement-non-opinion
+6169807,10000.tsv,"Hello, I have a minimal linux system: how can look at the ip settings? ifdown and ifconfig are not available",Statement-non-opinion
+6169808,10000.tsv,ifconfig,Statement-non-opinion
+6169809,10000.tsv,"@Maco: ip is there, thanks :)",Statement-non-opinion
+6169810,10000.tsv,static or dhcp,Rhetorical-Questions
+6169811,10000.tsv,static,Statement-non-opinion
+6169812,10000.tsv,look at /etc/interface,Statement-non-opinion
+6169813,10000.tsv,"/etc/interfaces are not there, its a fli4l",Statement-non-opinion
+6169814,10000.tsv,sorry look at /etc/network/interfaces,Statement-opinion
+6169815,10000.tsv,This file isnt there too.,Statement-non-opinion
+6169816,10000.tsv,i think you have to look in /proc,Statement-non-opinion
+6950863,10000.tsv,Thanks for help earlier.,Thanking
+6950864,10000.tsv,Now I gotta buy a new harddisk tho,Conventional-closing
+6950865,10000.tsv,since S.M.A.R.T. claims its failing,Statement-non-opinion
+6950866,10000.tsv,power outtage during repair,Statement-non-opinion
+6950867,10000.tsv,made it worse,Statement-non-opinion
+6950868,10000.tsv,yes,Yes answers
+6950869,10000.tsv,But I finally got it fixed so now I can ... go sleep instead of doing what I was supposed to do 8 hours ago,Statement-non-opinion
+6950870,10000.tsv,*sigh* >_<,Uninterpretable
+6950871,10000.tsv,"Anyway, thanks for the help here, beats the crap out of nearly anything else I've tried to get help on online :D",Thanking
+6950872,10000.tsv,Now we just gotta get blizzard to make games native for linux and I can swap perma :P,Statement-opinion
+6950873,10000.tsv,Agree.,Agree/Accept
+8387102,10000.tsv,Is it possible to upgrade between LTS versions,Yes-No-Question
+8387103,10000.tsv,"sure, but the current LTS is hardy",Statement-opinion
+8387104,10000.tsv,lucid is the next LTS in april next year,Statement-non-opinion
+8387105,10000.tsv,"ok, so I can upgrade to that when it comes out correct?",Open-Question
+8387106,10000.tsv,"sure, just like any other upgrade",Statement-non-opinion
+8387107,10000.tsv,just sed the sources.list file and update like I normally do?  (mind you I speak from upgrading from release to release this is more for a prod environment),Statement-non-opinion
+8387108,10000.tsv,no you shouldnt upgrade that way,Reject
+8387109,10000.tsv,!upgrade | electro,Uninterpretable
+8387110,10000.tsv,"you will get issues if you use that method, it is not advised",Statement-non-opinion
+8387111,10000.tsv,"what kind of issues, I've been doing it since 5.04",Wh-Question
+8387112,10000.tsv,"there are packages and programs to ease and manage upgradeing, if your method was the case, the link ubottu gave would be pretty bare",Statement-non-opinion
+8387113,10000.tsv,"this is for server, not desktop",Statement-opinion
+8387114,10000.tsv,I dont plan on using X,Statement-opinion
+8387115,10000.tsv,there is a network upgrade method for server too,Statement-non-opinion
+8387116,10000.tsv,ok,Response Acknowledgement
+8387117,10000.tsv,i suggest you read the link,Statement-opinion
+8796913,10000.tsv,I have a problem with ubuntu not recognizing that I have vista installed so now I cannot boot vista.  Can someone help?,Statement-non-opinion
+8796914,10000.tsv,Is vista the first partition on the first drive?,Rhetorical-Questions
+8796915,10000.tsv,I actually have two hard drives and vista is on the slave,Statement-opinion
+8796916,10000.tsv,There is a text box near the bottom you can copy from,Statement-opinion
+8796917,10000.tsv,Might ask in ##windows,Statement-opinion
+8796918,10000.tsv,"Instead of guessing at grub partition names, let's do it right with uuids, can you pastebin the output of 'blkid' ?",Open-Question
+8796919,10000.tsv,here it is: http://www.pastebin.ca/1435950,Statement-non-opinion
+8796920,10000.tsv,"Ok, try http://www.pastebin.ca/1435954",Statement-opinion
+8796921,10000.tsv,Thanks I am going to try it now.,Thanking
+8796922,10000.tsv,It did not work again and gave me the error: 'Error 15: File Not Found' any other Ideas or should I try windows support?,Statement-non-opinion
+8796923,10000.tsv,Go back to the configuration where you had an error about Bootmgr then ask in ##windows,Statement-opinion
+8796924,10000.tsv,Ok thanks a lot for all your help,Thanking
+8796925,10000.tsv,np,Acknowledge (Backchannel)
+1945008,100000.tsv,anyone know why everytime i browse my linux machine from my windows machine it asks for a login??,Open-Question
+1945009,100000.tsv,but when i put the username and password for the xubuntu machine is still doesnt work,Statement-non-opinion
+1945010,100000.tsv,it sounds like SAMBA configuration,Statement-non-opinion
+4080063,100000.tsv,"I followed a guide (http://superuser.com/questions/19318/how-can-i-give-write-access-of-a-folder-to-all-users-in-linux) to make /var/www writable to anyone in the www-data group and added my user to sid group, but I still can't make files or directories there. am I missing something?",Statement-non-opinion
+4080064,100000.tsv,"er, said.",Acknowledge (Backchannel)
+4080065,100000.tsv,did you log out and back in?,Declarative Yes-No-Question
+4080066,100000.tsv,I hadn't -- but that seems to have fixed it. thanks. not sure why I thought the changes propagated immediately,Thanking
+4080067,100000.tsv,"yeah, you need to log in again for group membership",Statement-opinion
+11889145,100000.tsv,if i disable gdm will i still be able to login into icewm ?,Declarative Yes-No-Question
+11889146,100000.tsv,will i be screwed ?,Wh-Question
+11889147,100000.tsv,/etc/init.d/gdm start,Uninterpretable
+11889148,100000.tsv,thanks,Thanking
+11889149,100000.tsv,"pastebin, thx",Uninterpretable
+11889150,100000.tsv,apt-cache search pageant,Uninterpretable
+13856205,100000.tsv,could you just put a script in inittab with the respawn option and use mplayer with a playlist?,Declarative Yes-No-Question
+13856206,100000.tsv,"Well, actually, I was planning somehting like that, but looking for a pointer on what to look up first - I will check out inittab",Statement-opinion
+13856207,100000.tsv,What would it be for edgy?,Wh-Question
+13856208,100000.tsv,im not sure about new init.  i think edgy still has /etc/inittab,Statement-non-opinion
+13856209,100000.tsv,"Regarding sound cards, I found this one:http://www.newegg.com/Product/Product.asp?Item=N82E16829130001",Statement-non-opinion
+13856210,100000.tsv,on newegg for 7.50 (abnout 13 after shipping),Uninterpretable
+13856211,100000.tsv, Thanks for the tip.  I can probably take it from there,Thanking
+14715493,100000.tsv,html,Uninterpretable
+14715494,100000.tsv,!html,Uninterpretable
+14715495,100000.tsv,!nvu,Uninterpretable
+14715496,100000.tsv,!bluefish,Uninterpretable
+14715497,100000.tsv,!quanta+,Uninterpretable
+14715498,100000.tsv,!screem,Uninterpretable
+14715499,100000.tsv,oO,Uninterpretable
+14715500,100000.tsv,you can experiment with ubotu like that '/msg ubotu bluefish',Statement-opinion
+15833501,100000.tsv,"I just installed ubuntu-server. What would I need to install to get a graphical application to run over ssh, like: ssh -X 10.10.10.10 psp.",Statement-opinion
+15833502,100000.tsv,﻿fiXXXerMet: this application does not have a command-line. :/,Statement-non-opinion
+15833503,100000.tsv,-> your psp has to have an Xserver also,Statement-non-opinion
+15833504,100000.tsv,-> provide a better information,Statement-opinion
+1776618,100001.tsv,HAI THAR,Uninterpretable
+1776619,100001.tsv,go awai,Uninterpretable
+1776620,100001.tsv,hello,Conventional-opening
+3909288,100001.tsv,Is there some basic windows network connectivity installed when you load Feisty?,Other answers
+3909289,100001.tsv,"yep. Places>Network will let you browse Windows network shares, and the add printer thingy will detect windows printers.",Statement-non-opinion
+3909290,100001.tsv,any idea how that connectivity could have been stopped ??? by accident?,Open-Question
+3909291,100001.tsv,not sure...,Other
+3909292,100001.tsv,its stopped working and I can't see my shared drives anymore,Statement-non-opinion
+11727799,100001.tsv,Is the package search page down,Declarative Yes-No-Question	
+11727800,100001.tsv,?,Uninterpretable
+11727801,100001.tsv,Thanks,Thanking
+11727802,100001.tsv,Is there a way to boot ubuntu from the CD ROM drive?,Declarative Yes-No-Question
+11727803,100001.tsv,put the cdrom in the drive ?,Open-Question
+11727804,100001.tsv,check bios settings for boot sequence..,Statement-non-opinion
+13706916,100001.tsv,DUDE I DONT UNDERSTAND ANYTHING ABOUT UBUNTU WOW,Statement-non-opinion
+13706917,100001.tsv,Can anyone give me lessons for ubuntu ?,Open-Question
+13706918,100001.tsv,Im complete beginner,Statement-non-opinion
+13706919,100001.tsv,I want to learn how to Install a .avi plugin,Statement-non-opinion
+13706920,100001.tsv,LOL,Uninterpretable
+13706921,100001.tsv,ok,Response Acknowledgement
+13706922,100001.tsv,wiki.ubuntu.com  is your friend,Statement-non-opinion
+14578317,100001.tsv,is it possible to open .rar files in linux ?,Declarative Yes-No-Question
+14578318,100001.tsv,just install winrar.?,Wh-Question
+14578319,100001.tsv,p   unrar                           - Unarchiver for .rar files (non-free versio,Uninterpretable
+14578320,100001.tsv,p   unrar-free                      - Unarchiver for .rar files,Uninterpretable
+14578321,100001.tsv,i think unrar-free,Uninterpretable
+14578322,100001.tsv,?,Uninterpretable
+14578323,100001.tsv,don't do that,Reject
+14578324,100001.tsv,don't paste multi line stuff here. and try to keep your comments on one line please,Reject
+15659001,100001.tsv,"I am having a very serious and wierd problem: the file /etc/resolv.conf cannot be accessed or removed, giving the error message 'Stale NFS file handle'. Because of this, I have no DNS capability. How do I fix this? Why would /etc/resolv.conf even be on a networked file system?",Statement-non-opinion
+15659002,100001.tsv,-> without resolv.conf you can not resolve names to ip address,Statement-non-opinion
+15659003,100001.tsv,"yes, i am aware that i can't resolve names, and it's very annoying :)",Statement-non-opinion
+15659004,100001.tsv,-> cant you relate?  network file system  -- to resolve those network addresses you require resolv.conf,Statement-non-opinion

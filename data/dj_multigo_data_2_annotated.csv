@@ -1,0 +1,202 @@
+dialogueID,text,
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1,hello good morning have a nice day,Conventional-opening
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1,Hello! Welcome to ACS Software Solutions. How may I help you today?,Conventional-opening
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1,my name is martin ,Statement-non-opinion
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1,am working at out look,Statement-non-opinion
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1, please?",Tag-Question
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1,and my skype application was an some problem,Statement-non-opinion
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1, could you tell me as to what the problem is?",Open-Question
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1,the application is not running,Statement-non-opinion
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1, I'll do my best to help. Could you share your name and account number?",Open-Question
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1,my name is martin and my account numeber is 1445,Statement-non-opinion
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1, thanks! Could you also share the name of you company?",Open-Question
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1,my company name is outlook,Statement-non-opinion
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1,outlook software company,Statement-non-opinion
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1,Oh yes! Thanks again! Could you check and tell me if you're using the latest version of this application?,Open-Question
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1,yes am not using latest version application,Statement-non-opinion
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1, you'll be facing these issue. Could you please upgrade and let me know if the application is responding?",Open-Question
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1,yes okay i will do my updation process,Statement-non-opinion
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1, could you tell me if you're able to run the application without any errors?",Open-Question
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1,yes now updated version is running normally ,Statement-non-opinion
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1,Great! Would you need anything else?,Open-Question
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1,nothing,Affirmative non-yes answers
+acs-00ad5526-bb84-4148-ac30-19afca56c12b-1,It was a pleasure to assist you today. Have a wonderful day!,Conventional-closing
+acs-629291d6-ca2b-4b63-aaf7-012ef4f602c9-1,Hello,Conventional-opening
+acs-629291d6-ca2b-4b63-aaf7-012ef4f602c9-1,Hello! Welcome to ACS Software Solutions. How may I help you today?,Conventional-opening
+acs-629291d6-ca2b-4b63-aaf7-012ef4f602c9-1,Hey Charlie.  I'm having issues with Skype.  I think an update failed.,Statement-non-opinion
+acs-629291d6-ca2b-4b63-aaf7-012ef4f602c9-1, I'll do my best to help. Could you share your name and the account number?",Open-Question
+acs-629291d6-ca2b-4b63-aaf7-012ef4f602c9-1,Sure. I'm Dave Jenkins and my account is 499753B,Statement-non-opinion
+acs-629291d6-ca2b-4b63-aaf7-012ef4f602c9-1, Dave! I would also require you to share the name of the company you're working for.",Statement-opinion
+acs-629291d6-ca2b-4b63-aaf7-012ef4f602c9-1, it's Mazda",Statement-non-opinion
+acs-629291d6-ca2b-4b63-aaf7-012ef4f602c9-1, I suggest you to upgrade the application manually as for this time and I'll have a ticket raised for you.",Statement-opinion
+acs-629291d6-ca2b-4b63-aaf7-012ef4f602c9-1, Charlie.",Statement-non-opinion
+acs-629291d6-ca2b-4b63-aaf7-012ef4f602c9-1,Thank you for your kind words. Have I helped you?,Thanking
+acs-629291d6-ca2b-4b63-aaf7-012ef4f602c9-1, Charlie.  Let's wrap this up so I can update Skype.",Statement-opinion
+acs-629291d6-ca2b-4b63-aaf7-012ef4f602c9-1, I've raised the ticket for you. The team will contact you soon and will have the issue resolved within 3 hours. Would there be anything else that I could help you with?",Statement-non-opinion
+acs-629291d6-ca2b-4b63-aaf7-012ef4f602c9-1, Charlie.  Thanks!",Thanking
+acs-629291d6-ca2b-4b63-aaf7-012ef4f602c9-1,It was a pleasure to assist you today. Have a wonderful day!,Conventional-closing
+acs-b5a66197-127c-4bd1-8946-8813b9cbdeb8-1,hai,Uninterpretable
+acs-b5a66197-127c-4bd1-8946-8813b9cbdeb8-1, thank you for contacting enterprise software company,Thanking
+acs-b5a66197-127c-4bd1-8946-8813b9cbdeb8-1,acs-7486ffec-3452-41ec-8325-81346b8917fb,Uninterpretable
+acs-b5a66197-127c-4bd1-8946-8813b9cbdeb8-1,acs-2dd4be67-2fe4-4b9d-900e-cffb333a9b4f,Uninterpretable
+acs-b5a66197-127c-4bd1-8946-8813b9cbdeb8-1,ramasamy,Uninterpretable
+acs-b5a66197-127c-4bd1-8946-8813b9cbdeb8-1,acs-8c5d397e-33b7-42e0-bed6-54c8ae5f4da9,Uninterpretable
+acs-b5a66197-127c-4bd1-8946-8813b9cbdeb8-1,ramasamy  7758,Uninterpretable
+acs-b5a66197-127c-4bd1-8946-8813b9cbdeb8-1,"I see that the servers are working completely fine. Please don't worry,Statement-non-opinion
+acs-b5a66197-127c-4bd1-8946-8813b9cbdeb8-1,ok,Response Acknowledgement
+acs-b5a66197-127c-4bd1-8946-8813b9cbdeb8-1,acs-c286a1d7-e9af-468e-a2dc-28de902cca1e,Uninterpretable
+acs-b5a66197-127c-4bd1-8946-8813b9cbdeb8-1,yes,Yes answers
+acs-b5a66197-127c-4bd1-8946-8813b9cbdeb8-1,acs-5419f21d-9eca-43c3-b174-a563824819e4,Uninterpretable
+acs-b5a66197-127c-4bd1-8946-8813b9cbdeb8-1,no thanks,Response Acknowledgement
+acs-b5a66197-127c-4bd1-8946-8813b9cbdeb8-1,acs-51380579-03f6-4d8e-98d7-869e2513ae36,Uninterpretable
+acs-1d1dbfa6-4e53-44cc-b748-5e3a44b92508-1,Hey! A very good evening to you. You're connected to Adio Tech Support. How may I help you today?,Conventional-opening
+acs-1d1dbfa6-4e53-44cc-b748-5e3a44b92508-1,hi,Conventional-opening
+acs-1d1dbfa6-4e53-44cc-b748-5e3a44b92508-1,i want to check the server status of skype,Statement-non-opinion
+acs-1d1dbfa6-4e53-44cc-b748-5e3a44b92508-1,I'll be glad to assist you with your query. Could you please help me with your name and last 4 digits of your account number?,Open-Question
+acs-1d1dbfa6-4e53-44cc-b748-5e3a44b92508-1,yia mario 7788,Statement-non-opinion
+acs-1d1dbfa6-4e53-44cc-b748-5e3a44b92508-1,And I'll also need the name of your company.,Statement-opinion
+acs-1d1dbfa6-4e53-44cc-b748-5e3a44b92508-1,yua ltd,Statement-non-opinion
+acs-1d1dbfa6-4e53-44cc-b748-5e3a44b92508-1,Thanks for the information. Please allow me a moment while I check the same for you.,Statement-non-opinion
+acs-1d1dbfa6-4e53-44cc-b748-5e3a44b92508-1, we are already working on it and they'll be up soon.",Statement-non-opinion
+acs-1d1dbfa6-4e53-44cc-b748-5e3a44b92508-1,okay,Response Acknowledgement
+acs-1d1dbfa6-4e53-44cc-b748-5e3a44b92508-1,Would there be anything else I may assist you with?,Open-Question
+acs-1d1dbfa6-4e53-44cc-b748-5e3a44b92508-1,thanks thats all,Thanking
+acs-1d1dbfa6-4e53-44cc-b748-5e3a44b92508-1,Looking forward to seeing you soon again. Have a great day ahead!,Conventional-closing
+acs-4463829b-6d87-477a-a882-d6cd78a6056b-1,Hello! Good morning! You've reached to ATA Tech solution center. How may I help you today? ,Conventional-opening
+acs-4463829b-6d87-477a-a882-d6cd78a6056b-1,Skype not open,Statement-non-opinion
+acs-4463829b-6d87-477a-a882-d6cd78a6056b-1,Alright! I'm here to help you out. Not to worry. May I know your name and the last four digits of your account number? ,Open-Question
+acs-4463829b-6d87-477a-a882-d6cd78a6056b-1,acs-5a65f1bc-b281-4148-b698-3fde949b7a6b,Uninterpretable
+acs-4463829b-6d87-477a-a882-d6cd78a6056b-1,5526,Uninterpretable
+acs-4463829b-6d87-477a-a882-d6cd78a6056b-1,Thank you Mr. Jaylymm May I know your company name please? ,Open-Question
+acs-4463829b-6d87-477a-a882-d6cd78a6056b-1,Jaylynn* ,Uninterpretable
+acs-4463829b-6d87-477a-a882-d6cd78a6056b-1,astmen inc,Uninterpretable
+acs-4463829b-6d87-477a-a882-d6cd78a6056b-1,Thank you for helping me with your details. Could you please stay connected while I go ahead and check on your issue. ,Open-Question
+acs-4463829b-6d87-477a-a882-d6cd78a6056b-1,ok,Response Acknowledgement
+acs-4463829b-6d87-477a-a882-d6cd78a6056b-1, on your behalf I've updated your app and could you please close the app> restart the system> run the app.",Open-Question
+acs-4463829b-6d87-477a-a882-d6cd78a6056b-1,ok,Response Acknowledgement
+acs-4463829b-6d87-477a-a882-d6cd78a6056b-1, Thanks for being patient and cooperative. Would there be anything else I may help you with? ",Open-Question
+acs-4463829b-6d87-477a-a882-d6cd78a6056b-1,no,No answers
+acs-4463829b-6d87-477a-a882-d6cd78a6056b-1,Fantastic! Thank you for contacting us in this regards! It was my pleasure assisting you. Have a great day ahead! ,Conventional-closing
+acs-bde6434f-e72b-493e-8950-429c2a9de2b4-1,Hi Drew,Conventional-opening
+acs-bde6434f-e72b-493e-8950-429c2a9de2b4-1,Hello! Thank you for connecting to AIM Technical services department. How may I assist you? ,Conventional-opening
+acs-bde6434f-e72b-493e-8950-429c2a9de2b4-1,",Uninterpretable
+acs-bde6434f-e72b-493e-8950-429c2a9de2b4-1,I using skype but its not working properly ,Statement-non-opinion
+acs-bde6434f-e72b-493e-8950-429c2a9de2b4-1, I'm here to fix your issue. May i know your name and the last 4 digits of your account number? ",Open-Question
+acs-bde6434f-e72b-493e-8950-429c2a9de2b4-1, my name is frank...my account number is 1254",Statement-non-opinion
+acs-bde6434f-e72b-493e-8950-429c2a9de2b4-1,Perfect! Could you also please let me know the name of the company you're currently representing? ,Open-Question
+acs-bde6434f-e72b-493e-8950-429c2a9de2b4-1,My company name is Amazing data works,Statement-non-opinion
+acs-bde6434f-e72b-493e-8950-429c2a9de2b4-1, could you please let me know what issues are you facing wit the application? ",Open-Question
+acs-bde6434f-e72b-493e-8950-429c2a9de2b4-1,Its automatically close while I try to open,Statement-non-opinion
+acs-bde6434f-e72b-493e-8950-429c2a9de2b4-1, please allow me a moment while I go ahead and check with the application. ",Statement-non-opinion
+acs-bde6434f-e72b-493e-8950-429c2a9de2b4-1,Yes please,Yes answers
+acs-bde6434f-e72b-493e-8950-429c2a9de2b4-1, hence I kindly request you to uninstall the application and re install the application and let me know if the issue has been solved. ",Statement-opinion
+acs-bde6434f-e72b-493e-8950-429c2a9de2b4-1, I try your instruction its working good now",Statement-non-opinion
+acs-bde6434f-e72b-493e-8950-429c2a9de2b4-1,That's amazing! You're welcome!  Would there be anything else I may assist you with? ,Open-Question
+acs-bde6434f-e72b-493e-8950-429c2a9de2b4-1, its enough thanks",Thanking
+acs-bde6434f-e72b-493e-8950-429c2a9de2b4-1, hope you'll have a great day ahead! ",Conventional-closing
+acs-786b69fa-a2bd-4b27-99b5-8b2111cd1bc8-1,hi,Conventional-opening
+acs-786b69fa-a2bd-4b27-99b5-8b2111cd1bc8-1, how may I help you today?",Conventional-opening
+acs-786b69fa-a2bd-4b27-99b5-8b2111cd1bc8-1,Skype now not open,Statement-non-opinion
+acs-786b69fa-a2bd-4b27-99b5-8b2111cd1bc8-1, could you please help me with your name and the last 4 digits of account number?",Open-Question
+acs-786b69fa-a2bd-4b27-99b5-8b2111cd1bc8-1,Ricky pointing ,Statement-non-opinion
+acs-786b69fa-a2bd-4b27-99b5-8b2111cd1bc8-1,5588,Statement-non-opinion
+acs-786b69fa-a2bd-4b27-99b5-8b2111cd1bc8-1, Ricky. May I know your name of the company please?",Open-Question
+acs-786b69fa-a2bd-4b27-99b5-8b2111cd1bc8-1,PU insmen inc,Statement-non-opinion
+acs-786b69fa-a2bd-4b27-99b5-8b2111cd1bc8-1, please allow me a moment while I look into your account and solve the issue right away.",Statement-non-opinion
+acs-786b69fa-a2bd-4b27-99b5-8b2111cd1bc8-1,ok,Response Acknowledgement
+acs-786b69fa-a2bd-4b27-99b5-8b2111cd1bc8-1, Skype 8.33.0.53. So as to know if the skype is updated or not,Open-Question
+acs-786b69fa-a2bd-4b27-99b5-8b2111cd1bc8-1,ok thanks,Response Acknowledgement
+acs-786b69fa-a2bd-4b27-99b5-8b2111cd1bc8-1,Great! Is there anything else I may help you with?,Statement-non-opinion
+acs-786b69fa-a2bd-4b27-99b5-8b2111cd1bc8-1,no,No answers
+acs-786b69fa-a2bd-4b27-99b5-8b2111cd1bc8-1, please feel free to reach out to us for further concerns. Have a great day ahead!",Conventional-closing
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1,hao,Conventional-opening
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1,Hello!,Conventional-opening
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1,Hello! Thank you for connecting to AIM Technical services department. How may I assist you? ,Conventional-opening
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1,application not working as expected in saleforce,Statement-non-opinion
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1, as I'm here to solve your issue. May I know your name and the last 4 digits of your account number? ",Open-Question
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1,JOHN 5464,Statement-non-opinion
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1,Perfect! Could you also please let me know the name of the company you're currently representing? ,Open-Question
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1,DELL,Statement-non-opinion
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1, is it version 2.01.01 or version 2.01.02? ",Open-Question
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1,2.01.02,Statement-non-opinion
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1, but as you're still facing issues could you please uninstall the application and reinstall the application and let me know if your issue has been solved? ",Statement-non-opinion
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1,OK ,Response Acknowledgement
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1,THANK YOU,Thanking
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1,You're welcome! Should I confirm that your issue has been resolved? ,Open-Question
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1,yes,Yes answers
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1,Amazing! Would there be anything else I may assist you with? ,Open-Question
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1,nothing,No answers
+acs-658105cf-4abe-4d69-81d0-5501cd6afa2b-1, hope you'll have a great day ahead! ",Conventional-closing
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1,hi,Conventional-opening
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1, how may I help you today?",Conventional-opening
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1,My computer Skype software is not working,Statement-non-opinion
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1, could you please be more specific with the issue you're facing with Skype?",Open-Question
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1,no,No answers
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1, please be more specific with the response.",Statement-opinion
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1,My software is hanging ,Statement-non-opinion
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1, could you please help me with your name and the last 4 digits of account number?",Open-Question
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1, 4568",Statement-non-opinion
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1, Jioge. May I know your name of the company please?",Open-Question
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1,Info tech,Statement-non-opinion
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1, please allow me a moment while I look into your account and solve the issue right away.",Statement-non-opinion
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1,waiting for your feedback,Statement-non-opinion
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1, Skype 8.33.0.53. So as to know if the skype is updated or not,Open-Question
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1,yeah sure,Response Acknowledgement
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1,Great! Is there anything else I may help you with?,Open-Question
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1,no thank you for your support,No answers
+acs-4f6b78f1-f373-4943-9cdd-022d04f3d889-1, please feel free to reach out to us for further concerns. Have a great day ahead!",Conventional-closing
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,hi,Conventional-opening
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1, thank you for contacting enterprise software company,Thanking
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,my product is not working,Statement-non-opinion
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,"Sir,Statement-non-opinion
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,it is hanging when i open it ,Statement-non-opinion
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,acs-da83afa7-ab83-49b6-81a3-0682a3693824,Uninterpretable
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,name : ajith,Statement-non-opinion
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,sorry lindsay,Apology
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,my  application is sales force,Statement-non-opinion
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,acs-e05c30a4-a53c-4248-a5fb-69f8d000a5f7,Uninterpretable
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,name : aji ino tech,Statement-non-opinion
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,number 5623,Statement-non-opinion
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,acs-4d86090b-848e-41d5-a8fb-36f5ed37a85a,Uninterpretable
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,ok sure just a minute ,Response Acknowledgement
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,acs-ef6f8193-99c1-4566-a412-3ae955feff8b,Uninterpretable
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,thanks man its working,Thanking
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,acs-c4aee08b-1779-488f-97ac-14444263670e,Uninterpretable
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,no thanks Lindsay,Thanking
+acs-ac86e19d-1ab6-43af-8dfb-1477d0ba727f-1,acs-826f34b1-e2f3-4bf9-8d98-3b593a74d856,Uninterpretable
+acs-88a7c284-3312-469c-9880-38275cca39e0-1,Hi,Conventional-opening
+acs-88a7c284-3312-469c-9880-38275cca39e0-1, thank you for contacting enterprise software company,Conventional-closing
+acs-88a7c284-3312-469c-9880-38275cca39e0-1,good morning,Conventional-opening
+acs-88a7c284-3312-469c-9880-38275cca39e0-1,my computer Skype software is not working,Statement-non-opinion
+acs-88a7c284-3312-469c-9880-38275cca39e0-1,acs-13a5c8e3-acbb-4594-aee0-42671d2077d8,Uninterpretable
+acs-88a7c284-3312-469c-9880-38275cca39e0-1,My name is chandru,Statement-non-opinion
+acs-88a7c284-3312-469c-9880-38275cca39e0-1,acs-0d89f9ec-d711-49c4-9d55-f6aec39fe582,Uninterpretable
+acs-88a7c284-3312-469c-9880-38275cca39e0-1,My company name is shivaay,Statement-non-opinion
+acs-88a7c284-3312-469c-9880-38275cca39e0-1,My account number is 7612,Statement-non-opinion
+acs-88a7c284-3312-469c-9880-38275cca39e0-1,acs-cd43221d-78e7-4627-83b6-3bf2bc49c7b5,Uninterpretable
+acs-88a7c284-3312-469c-9880-38275cca39e0-1,okay,Response Acknowledgement
+acs-88a7c284-3312-469c-9880-38275cca39e0-1,acs-fc5bd4f7-f3b4-4c81-8911-7717f7b141bc,Uninterpretable
+acs-88a7c284-3312-469c-9880-38275cca39e0-1,okay,Response Acknowledgement
+acs-88a7c284-3312-469c-9880-38275cca39e0-1,acs-703014d4-89f9-4b68-b874-02874432259c,Uninterpretable
+acs-88a7c284-3312-469c-9880-38275cca39e0-1, thank you",Thanking
+acs-88a7c284-3312-469c-9880-38275cca39e0-1,acs-88efe9d4-36c8-4037-aab6-108bee347707,Uninterpretable
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,hello good morning,Conventional-opening
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,Hello! Thank you for connecting to AIM Technical services department. How may I assist you? ,Conventional-opening
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,my skype not working,Statement-non-opinion
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,Oh that's upsetting but no worries I'm here to resolve your issue. May I know your name and the last 4 digits of your account number? ,Open-Question
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,yuvaraj,Statement-non-opinion
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,a/n 4587,Statement-non-opinion
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,Perfect! Could you also please let me know the name of the company you're currently representing? ,Open-Question
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,yuvaraj info,Statement-non-opinion
+acs-b858a682-e084-4dda-8804-1df04b44d870-1, is it version 2.01.01 or version 2.01.02? ",Open-Question
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,okay,Response Acknowledgement
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,2.01.02,Statement-non-opinion
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,Oh then I'd like to inform you that you're using the updated version of the application but as your application is not working I kindly request you to uninstall the application and reinstall it and let me know if the application is working. ,Statement-non-opinion
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,okay,Response Acknowledgement
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,I hope you've reinstalled the application? ,Open-Question
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,okay,Response Acknowledgement
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,Should I confirm that your application is working properly now? ,Open-Question
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,okay,Response Acknowledgement
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,That's amazing! Would there be anything else I may assist you with? ,Open-Question
+acs-b858a682-e084-4dda-8804-1df04b44d870-1,no thank you,Thanking
+acs-b858a682-e084-4dda-8804-1df04b44d870-1, hope you'll have a great day ahead! ",Conventional-closing
